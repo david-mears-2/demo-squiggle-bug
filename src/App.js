@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { SquiggleEditor } from "@quri/squiggle-components";
 
 function App() {
   return (
